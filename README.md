@@ -1,4 +1,4 @@
-# 🎣 CodeAlpha_Phishing Awareness Training
+# 🎣 Phishing Awareness Training
 
 A phishing awareness training presentation designed to educate beginners — students or employees — about phishing attacks, how they work, and how to stay safe.
 
