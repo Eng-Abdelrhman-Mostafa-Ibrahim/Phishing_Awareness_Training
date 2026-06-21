@@ -70,5 +70,4 @@ This presentation is intended **strictly for educational and security awareness 
 
 ## 👨‍💻 Author
 
-**Abdo ZeroTrace**  
-CodeAlpha Internship — Cybersecurity Task
+**Abdelrhman Mostafa**  
